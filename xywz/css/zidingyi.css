@@ -1,0 +1,52 @@
+@charset "UTF-8";
+.a_more{
+	height: 40px;
+    display: block;
+    text-align: center;
+    line-height: 40px;
+    background: #CEE1EA;
+    color: #708C99;
+    margin-top: 30px;
+    border-radius: 3px;
+    
+}
+.a_more:hover {
+    background: #D2E8F3;
+    text-decoration: none;
+}
+.fa{
+	margin: 0;
+}
+
+.img-responsive{
+	display: block;
+	max-width: 100%;
+	height: auto
+}
+
+.zt{
+	font-size: 14px !important;
+	line-height: 30px !important;
+}
+
+.zh{
+	font-size: 26px !important;
+}
+.gd img{
+	width: 370px !important;
+	height: 275px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
